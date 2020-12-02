@@ -1,4 +1,4 @@
-"Symbol","Series","Date","Prev Close","Open Price","High Price","Low Price","Last Price","Close Price","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
+"Symbol","Series","Date","Prev Close","OpenPrice","HighPrice","LowPrice","Last Price","ClosePrice","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
 "AXISBANK","EQ","01-Jan-2020","        754.10","        754.90","        759.95","        747.20","        748.75","        748.70","        751.81","    4917748","          3697221320.00","      80824","     988375","         20.10"
 "AXISBANK","EQ","02-Jan-2020","        748.70","        750.00","        759.00","        747.60","        756.00","        756.95","        753.82","    5156046","          3886739008.45","      88337","    1572942","         30.51"
 "AXISBANK","EQ","03-Jan-2020","        756.95","        753.15","        756.25","        740.50","        742.40","        742.95","        746.33","    8489729","          6336165102.45","     139161","    3834757","         45.17"
