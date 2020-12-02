@@ -1,4 +1,4 @@
-"Symbol","Series","Date","Prev Close","Open Price","High Price","Low Price","Last Price","Close Price","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
+"Symbol","Series","Date","Prev Close","OpenPrice","HighPrice","LowPrice","LastPrice","ClosePrice","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
 "HDFCBANK","EQ","01-Jan-2020","       1272.10","       1276.10","       1280.00","       1270.60","       1279.00","       1278.60","       1276.64","    1836849","          2345000988.70","      46625","     809152","         44.05"
 "HDFCBANK","EQ","02-Jan-2020","       1278.60","       1279.00","       1288.00","       1279.00","       1286.00","       1286.75","       1284.56","    3068583","          3941791536.35","     104570","    1957617","         63.80"
 "HDFCBANK","EQ","03-Jan-2020","       1286.75","       1282.20","       1285.00","       1263.60","       1268.50","       1268.40","       1270.48","    5427775","          6895885753.85","     157066","    3459267","         63.73"
