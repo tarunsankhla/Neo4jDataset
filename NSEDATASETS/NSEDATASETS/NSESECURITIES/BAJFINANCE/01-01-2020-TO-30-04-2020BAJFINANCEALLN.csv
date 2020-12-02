@@ -1,4 +1,4 @@
-"Symbol","Series","Date","Prev Close","Open Price","High Price","Low Price","Last Price","Close Price","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
+"Symbol","Series","Date","Prev Close","OpenPrice","HighPrice","LowPrice","LastPrice","ClosePrice","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
 "BAJFINANCE","EQ","01-Jan-2020","       4234.75","       4237.80","       4252.00","       4221.00","       4231.00","       4231.30","       4235.35","     407042","          1723964912.40","      22951","      97702","         24.00"
 "BAJFINANCE","EQ","02-Jan-2020","       4231.30","       4240.00","       4295.75","       4235.00","       4243.80","       4246.05","       4268.23","     863844","          3687085024.60","      59073","     237293","         27.47"
 "BAJFINANCE","EQ","03-Jan-2020","       4246.05","       4220.00","       4234.80","       4173.00","       4181.05","       4193.45","       4205.07","    1176850","          4948733901.60","      68524","     316090","         26.86"
