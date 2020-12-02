@@ -1,4 +1,4 @@
-"Symbol","Series","Date","Prev Close","Open Price","High Price","Low Price","Last Price","Close Price","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
+"Symbol","Series","Date","Prev Close","OpenPrice","HighPrice","LowPrice","LastPrice","ClosePrice","Average Price","Total Traded Quantity","Turnover","No. of Trades","Deliverable Qty","% Dly Qt to Traded Qty"
 "BHARTIARTL","EQ","01-Jan-2020","        455.80","        456.05","        460.50","        449.75","        453.70","        453.30","        454.52","    5059995","          2299887461.40","      67334","    1123980","         22.21"
 "BHARTIARTL","EQ","02-Jan-2020","        453.30","        454.10","        459.40","        453.50","        455.30","        455.20","        455.54","    4842142","          2205786807.10","      78890","    1761330","         36.38"
 "BHARTIARTL","EQ","03-Jan-2020","        455.20","        455.70","        459.20","        451.50","        457.15","        455.10","        454.80","    5059594","          2301088400.05","      97228","    1968386","         38.90"
